@@ -16,15 +16,14 @@
     <AssemblyName>Skyware.Vitosha.Model</AssemblyName>
     <RootNamespace>Skyware.Vitosha.Model</RootNamespace>
     <Version>1.0.0</Version>
-    <PackageId>$(AssemblyName)</PackageId>
+    <PackageId>Skyware.Vitosha.Model</PackageId>
     <PackageTags>SMS;Viber;Vitosha</PackageTags>
-    <PackageReleaseNotes>Initial public release</PackageReleaseNotes>
-    <PackageProjectUrl>https://github.com/SKYWARE-Group/lis-helpers</PackageProjectUrl>
+    <!--<PackageProjectUrl>https://github.com/SKYWARE-Group/lis-helpers</PackageProjectUrl>
     <RepositoryUrl>https://github.com/SKYWARE-Group/lis-helpers</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>lis-helpers.png</PackageIcon>
-    <PackageReadmeFile>readme.md</PackageReadmeFile>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>-->
   </PropertyGroup>
 
 </Project>

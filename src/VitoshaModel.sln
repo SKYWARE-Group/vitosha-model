@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitoshaDtoModel", "VitoshaDtoModel\VitoshaDtoModel.csproj", "{6EE1BFCA-DBB6-CA67-F8F3-E1EBFF490786}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitoshaDemo", "VitoshaDemo\VitoshaDemo.csproj", "{B72A3B5A-C0E5-41B7-A1A7-68008A54C64E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EE1BFCA-DBB6-CA67-F8F3-E1EBFF490786}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE1BFCA-DBB6-CA67-F8F3-E1EBFF490786}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE1BFCA-DBB6-CA67-F8F3-E1EBFF490786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72A3B5A-C0E5-41B7-A1A7-68008A54C64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72A3B5A-C0E5-41B7-A1A7-68008A54C64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72A3B5A-C0E5-41B7-A1A7-68008A54C64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72A3B5A-C0E5-41B7-A1A7-68008A54C64E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
