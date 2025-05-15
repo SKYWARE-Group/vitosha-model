@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;net8.0;net9.0</TargetFrameworks>
+    <LangVersion>13.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Authors>Ivan Kalatchev</Authors>
+    <Company>SKYWARE Group</Company>
+    <Product>Vitosha Model</Product>
+    <Description>Model for Vitosha messaging gateway</Description>
+    <Copyright>Copyright (C) 2022-2005, SKYWARE Group</Copyright>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Vitosha Model</Title>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyName>Skyware.Vitosha.Model</AssemblyName>
+    <RootNamespace>Skyware.Vitosha.Model</RootNamespace>
+    <Version>1.0.0</Version>
+    <PackageId>Skyware.Vitosha.Model</PackageId>
+    <PackageTags>SMS;Viber;Vitosha</PackageTags>
+    <PackageProjectUrl>https://github.com/SKYWARE-Group/vitosha-model</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SKYWARE-Group/vitosha-model</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>logo.png</PackageIcon>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="assets\logo.png" Pack="True" PackagePath="\" />
+    <None Include="assets\readme.md" Pack="True" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
