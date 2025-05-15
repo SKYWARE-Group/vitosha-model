@@ -12,7 +12,7 @@ IVitoshaClient client = RestService.For<IVitoshaClient>(configuration.GetSection
 
 Message message = new()
 {
-    Recipient = "0000000000",
+    Recipient = "08880000000",
     Text = "Test message A1",
     IsViber = false,
 };
