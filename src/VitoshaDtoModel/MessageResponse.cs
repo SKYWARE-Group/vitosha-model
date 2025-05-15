@@ -16,10 +16,20 @@ public class MessageResponse
     /// </summary>
     public string Message { get; set; }
 
+    /// <summary>
+    /// Original message.
+    /// </summary>
     public Message MessageObj { get; set; }
 
+
+    /// <summary>
+    /// Message Id.
+    /// </summary>
     public int? MessageId { get; set; }
 
+    /// <summary>
+    /// Details.
+    /// </summary>
     public string Details { get; set; }
 
 }

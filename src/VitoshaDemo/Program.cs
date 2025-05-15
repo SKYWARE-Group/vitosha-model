@@ -12,8 +12,8 @@ IVitoshaClient client = RestService.For<IVitoshaClient>(configuration.GetSection
 
 Message message = new()
 {
-    Recipient = "08880000000",
-    Text = "Test message A1",
+    Recipient = "0000000000", // TODO: Replace with a valid phone number
+    Text = "Test message.",
     IsViber = false,
 };
 
